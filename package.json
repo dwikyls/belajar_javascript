@@ -19,7 +19,7 @@
   "homepage": "https://github.com/dwikyls/belajar_javascript#readme",
   "dependencies": {
     "jquery": "^3.5.1",
-    "moment": "^2.27.0"
+    "moment": "^2.29.2"
   },
   "devDependencies": {
     "@babel/core": "^7.11.1",
